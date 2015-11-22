@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+
+<HRDepartment>
+    <director>Ivanov Ivan</director>
+    <vacasionList>
+        <vacanciesRecord type="logistic">
+            <salary>6000000</salary>
+        </vacanciesRecord>
+        <vacanciesRecord type="economist">
+            <salary>5000000</salary>
+        </vacanciesRecord>
+    </vacasionList>
+    <employersList>
+        <employerRecord id="one">
+            <surname>Pupkin</surname>
+            <salary>4700000</salary>
+            <age>35</age>
+        </employerRecord>
+        <employerRecord id="two">
+            <surname>Petrov</surname>
+            <salary>4200000</salary>
+            <age>40</age>
+        </employerRecord>
+        <employerRecord id="three">
+            <surname>Popkin</surname>
+            <salary>370</salary>
+            <age>18</age>
+        </employerRecord>
+    </employersList>
+</HRDepartment>
