@@ -1,9 +1,9 @@
 body{
-    background: lightgray;
+    background: burlywood;
 }
 
 h1{
     font-size: 45px;
-    color: green;
     text-align: center;
+    color: red;
 }
